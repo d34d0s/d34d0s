@@ -9,10 +9,7 @@
  
 ### What I'm Working On
 #### <a href="http://github.com/r3shape"> <img src="assets/r3-sticker.png"></img> </a>  
-##### [r3make](https://github.com/r3shape/r3make)  
-##### [libR3](https://github.com/r3shape/libR3) | [libECX](http://github.com/r3shape/libECX)  
-####  [uniform](https://github.com/r3shape/uniform)  
-##### [nanoserve](http://github.com/zafflins/nanoserve)  
+##### [r3make](https://github.com/r3shape/r3make)   
 
 ### Articles
 #### **[Elegant Design: Dispatch Tables in C](https://github.com/zafflins/essays/blob/main/ed-dispatch-tables.md)**  
